@@ -6,20 +6,7 @@ permalink: /
 
 <style>
   body {
-    background-image: url('/assets/images/background.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  body::before {
-    content: "";
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(255, 255, 255, 0.65);
-    z-index: -1;
+    background-color: #f7f9fc; /* soft, clean background */
   }
 
   .header {
@@ -29,12 +16,13 @@ permalink: /
   }
 
   .header h1 {
-    font-size: 2.4rem;
-    margin-bottom: 5px;
+    font-size: 2.5rem;
+    margin-bottom: 8px;
+    font-weight: 600;
   }
 
   .subtitle {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     color: #666;
     font-weight: 300;
   }
@@ -43,7 +31,7 @@ permalink: /
     max-width: 760px;
     margin: auto;
     line-height: 1.75;
-    font-size: 1.06rem;
+    font-size: 1.07rem;
     color: #333;
   }
 
@@ -54,22 +42,27 @@ permalink: /
   .navigation ul {
     list-style: none;
     padding-left: 0;
+    margin-top: 14px;
   }
 
   .navigation li {
     margin-bottom: 12px;
-    font-size: 1.12rem;
+    font-size: 1.14rem;
   }
 
+  .navigation a {
+    text-decoration: none;
+    color: #222;
+  }
   .navigation a:hover {
     color: #005fcc;
   }
 
+  /* Contact styling */
   .contact a {
     color: #005fcc;
     text-decoration: none;
   }
-
   .contact a:hover {
     text-decoration: underline;
   }
@@ -82,16 +75,53 @@ permalink: /
 
 <div class="content">
 
+  <!-- Intro Section -->
+  <section class="intro">
+    <p>
+      I am a Postdoctoral Researcher under the supervision of 
+      <strong>Prof. Jianhong Wu</strong> at <strong>York University</strong>, Canada.
+      I completed my Ph.D. in Applied Mathematics at the 
+      <strong>University of Western Ontario</strong>, supervised by 
+      <strong>Prof. Xingfu Zou</strong>.
+    </p>
+
+    <p>
+      My research lies broadly in <strong>Applied Mathematics</strong>, with particular interests in:
+    </p>
+
+    <ul>
+      <li>Mathematical biology</li>
+      <li>Infectious disease modelling</li>
+      <li>Dynamical systems</li>
+      <li>Delay differential equations</li>
+    </ul>
+
+    <p>
+      🖨️ <strong>Curriculum Vitae:</strong><br>
+      <a href="/assets/files/Tianyu_CV_sta.pdf" target="_blank" rel="noopener noreferrer">
+        Download CV (PDF)
+      </a>
+    </p>
+  </section>
+
+  <!-- Navigation Section -->
+  <section class="navigation">
+    <h2>Explore</h2>
+    <ul>
+      <li>📘 <a href="/papers/">Publications</a></li>
+      <li>🧪 <a href="/programming/">Programming</a></li>
+      <li>🎙️ <a href="/presentations/">Presentations</a></li>
+      <li>👤 <a href="/about/">About Me</a></li>
+    </ul>
+  </section>
+
   <!-- Contact Section -->
   <section class="contact">
     <h2>Contact</h2>
     <p>
-      ✉️ <strong>Primary:</strong> 
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-    </p>
-    <p>
-      📮 <strong>Secondary:</strong> 
-      <a href="mailto:your.second.email@example.com">your.second.email@example.com</a>
+      ✉️ <strong>Email:</strong><br>
+      <a href="mailto:tianyu45@yorku.ca">tianyu45@yorku.ca</a><br>
+      <a href="mailto:tchen454@uwo.ca">tchen454@uwo.ca</a>
     </p>
   </section>
 
