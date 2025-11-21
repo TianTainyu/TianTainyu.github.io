@@ -12,4 +12,4 @@ Allow: /papers/
 Allow: /projects/
 Allow: /programming/
 
-Sitemap: https://tianyu454.github.io/sitemap.xml
+Sitemap: https://TianTainyu.github.io/sitemap.xml
