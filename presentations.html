@@ -1,0 +1,18 @@
+---
+layout: default
+title: Presentations
+---
+
+<h2>Presentations</h2>
+
+<ul class="presentation-list">
+  {% for pres in site.data.presentations %}
+  <li class="presentation-item">
+    <strong>{{ pres.type }}</strong><br>
+    {{ pres.event }}, {{ pres.location }}<br>
+    <em>{{ pres.date }}</em>
+  </li>
+  {% endfor %}
+</ul>
+
+<p><a href="/">← Back to Home</a></p>
