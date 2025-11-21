@@ -11,13 +11,13 @@ permalink: /
 
   .header {
     text-align: center;
-    margin-top: 40px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 35px;
   }
 
   .header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 8px;
+    font-size: 2.6rem;
+    margin-bottom: 6px;
     font-weight: 600;
   }
 
@@ -33,27 +33,30 @@ permalink: /
     line-height: 1.75;
     font-size: 1.07rem;
     color: #333;
+    text-align: center;
   }
 
   section {
-    margin-bottom: 42px;
+    margin-bottom: 40px;
   }
 
+  /* Navigation section */
   .navigation ul {
     list-style: none;
     padding-left: 0;
-    margin-top: 14px;
+    margin-top: 16px;
   }
 
   .navigation li {
-    margin-bottom: 12px;
-    font-size: 1.14rem;
+    margin-bottom: 14px;
+    font-size: 1.18rem;
   }
 
   .navigation a {
     text-decoration: none;
     color: #222;
   }
+
   .navigation a:hover {
     color: #005fcc;
   }
@@ -75,40 +78,11 @@ permalink: /
 
 <div class="content">
 
-  <!-- Intro Section -->
-  <section class="intro">
-    <p>
-      I am a Postdoctoral Researcher under the supervision of 
-      <strong>Prof. Jianhong Wu</strong> at <strong>York University</strong>, Canada.
-      I completed my Ph.D. in Applied Mathematics at the 
-      <strong>University of Western Ontario</strong>, supervised by 
-      <strong>Prof. Xingfu Zou</strong>.
-    </p>
-
-    <p>
-      My research lies broadly in <strong>Applied Mathematics</strong>, with particular interests in:
-    </p>
-
-    <ul>
-      <li>Mathematical biology</li>
-      <li>Infectious disease modelling</li>
-      <li>Dynamical systems</li>
-      <li>Delay differential equations</li>
-    </ul>
-
-    <p>
-      🖨️ <strong>Curriculum Vitae:</strong><br>
-      <a href="/assets/files/Tianyu_CV_sta.pdf" target="_blank" rel="noopener noreferrer">
-        Download CV (PDF)
-      </a>
-    </p>
-  </section>
-
   <!-- Navigation Section -->
   <section class="navigation">
     <h2>Explore</h2>
     <ul>
-
+      <li>📘 <a href="/papers/">Publications</a></li>
       <li>🧪 <a href="/programming/">Programming</a></li>
       <li>🎙️ <a href="/presentations/">Presentations</a></li>
       <li>👤 <a href="/about/">About Me</a></li>
