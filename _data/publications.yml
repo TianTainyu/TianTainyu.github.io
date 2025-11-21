@@ -15,7 +15,8 @@
   authors: "T. Cheng and X. Zou"
   year: 2024
   journal: "Journal of Mathematical Biology"
-  pdf: "/assets/papers/JMB24.pdf"
+  pdf: "/assets/papers/jmb24.pdf"
+
 
 - title: "A new perspective on infection forces with demonstration by a DDE infectious disease model"
   authors: "T. Cheng and X. Zou"
