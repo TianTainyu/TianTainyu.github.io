@@ -3,44 +3,42 @@
   authors: "T. Cheng and X. Zou"
   year: 2025
   journal: "Journal of Mathematical Biology"
-  pdf: "/assets/papers/jmb25.pdf"
-  
+  DOI: "10.1007/s00285-025-02249-2"
+
 - title: "Recurrent patterns of disease spread post the acute phase of a pandemic: insights from a coupled system of differential equations for disease transmission and a delayed algebraic equation for behavioral adaptation"
   authors: "T. Cheng and J. Wu"
   year: 2025
   journal: "Mathematical Biosciences"
-  pdf: "/assets/papers/mbs25.pdf"
+  DOI: "10.1016/j.mbs.2025.109480"
 
 - title: "Modelling the impact of society precaution on disease dynamics and its evolution"
   authors: "T. Cheng and X. Zou"
   year: 2024
   journal: "Journal of Mathematical Biology"
-  pdf: "/assets/papers/JMB24.pdf"
-
+  DOI: "10.1007/s00285-024-02100-0"
 
 - title: "A new perspective on infection forces with demonstration by a DDE infectious disease model"
   authors: "T. Cheng and X. Zou"
   year: 2022
   journal: "Mathematical Biosciences and Engineering"
-  pdf: "/assets/papers/mbe22-2.pdf"
+  DOI: "10.3934/mbe.2022227"
 
 - title: "Bifurcation Analysis of a Generalized Impulsive Kolmogorov Model With Applications to Pest and Disease Control"
   authors: "Q. Zhang, B. Tang, T. Cheng and S. Tang"
   year: 2020
   journal: "SIAM Journal on Applied Mathematics"
-  pdf: ""
+  DOI: "10.1137/19M1279320"
 
 - title: "Threshold Dynamics and Bifurcation of a State Dependent Feedback Nonlinear Control Susceptible Infected Recovered Model"
   authors: "T. Cheng, S. Tang and R. A. Cheke"
   year: 2019
   journal: "Journal of Computational and Nonlinear Dynamics"
-  pdf: "/assets/papers/jcnd19.pdf"
+  DOI: "10.1115/1.4043001"
 
 - title: "Assessing the epidemiological and economic impact of alternative vaccination strategies: a modelling study"
   authors: "S. Kim, S. Athar, Y. Li, S. Koumarianos, S. Koumarianos, T. Cheng, ... & J. Wu"
   year: 2022
   journal: "International Journal of Infectious Diseases"
- 
 
 
 # === Preprints ===
@@ -48,4 +46,4 @@
   authors: "T. Cheng and X. Zou"
   year: 2023
   preprint: "preprint"
-  pdf: ""
+  link: ""
