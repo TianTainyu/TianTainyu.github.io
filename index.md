@@ -48,6 +48,6 @@ permalink: /
   <section class="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-    <p>Office: kismen building 263</p>
+  
   </section>
 </div>
