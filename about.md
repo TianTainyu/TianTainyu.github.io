@@ -19,7 +19,7 @@ permalink: /about/
 
 ---
 
-## 📘 Selected Papers
+## 📘 Publications
 <div class="papers">
 {% for pub in site.data.publications %}
   <div class="paper">
