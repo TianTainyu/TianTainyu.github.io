@@ -6,7 +6,7 @@ permalink: /
 
 <style>
   body {
-    background-color: #f7f9fc; /* soft, clean background */
+    background-color: #bedef5ff; /* soft, clean background */
   }
 
   .header {
