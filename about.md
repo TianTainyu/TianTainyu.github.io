@@ -73,7 +73,7 @@ permalink: /about/
 {% endfor %}
 </div>
 
----
+
 ## 🎤 Presentations
 <ul>
 {% for talk in site.data.presentations %}
