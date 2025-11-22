@@ -6,7 +6,7 @@ permalink: /
 
 <style>
   body {
-    background-color: #bedef5ff;
+    background-color: #90c0e2ff;
   }
 
   .header {
@@ -144,15 +144,11 @@ permalink: /
   <section class="navigation">
     <ul>
       <li>👤 <a href="/about/">About Me</a></li>
-      <li>📄 <a href="/papers.html">Papers</a></li>
-      <li>🧩 <a href="/projects.html">Projects</a></li>
-      <li>💻 <a href="/programming.html">Programming</a></li>
     </ul>
   </section>
 
   <!-- Contact Section -->
   <section class="contact">
-    <h2>Contact</h2>
     <p>
       ✉️ <strong>Email:</strong><br>
       <a href="mailto:tianyu45@yorku.ca">tianyu45@yorku.ca</a><br>
