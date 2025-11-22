@@ -95,9 +95,4 @@ I also have experience with <strong>MATLAB</strong> and <strong>MAPLE</strong>.
 
 ---
 
-## 📬 Contact
-<div class="contact">
-  ✉️ <strong>Email:</strong><br>
-  <a href="mailto:tianyu45@yorku.ca">tianyu45@yorku.ca</a><br>
-  <a href="mailto:tchen454@uwo.ca">tchen454@uwo.ca</a>
-</div>
+
