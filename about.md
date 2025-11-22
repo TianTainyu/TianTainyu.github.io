@@ -86,7 +86,7 @@ permalink: /about/
 
 
 
-## 💻 Skills
+##  💻  Skills
 
 <p>
 I use programming languages such as <strong>Mathematica</strong>, <strong>Python</strong>, and <strong>C++</strong>.
