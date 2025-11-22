@@ -6,7 +6,7 @@ permalink: /
 
 <style>
   body {
-    background-color: #3e7aa5ff;
+    background-color: #bedef5ff;
   }
 
   .header {
@@ -96,7 +96,6 @@ permalink: /
   .contact a:hover {
     text-decoration: underline;
   }
-
 </style>
 
 <div class="header">
@@ -143,7 +142,6 @@ permalink: /
 
   <!-- Navigation Section -->
   <section class="navigation">
-    <h2>Explore</h2>
     <ul>
       <li>👤 <a href="/about/">About Me</a></li>
       <li>📄 <a href="/papers.html">Papers</a></li>
