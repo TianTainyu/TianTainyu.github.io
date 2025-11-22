@@ -71,11 +71,12 @@ permalink: /about/
     </div>
   </div>
 {% endfor %}
+ </div>
 
+ ---
 
 
 ## 🎤 Presentations
-
 <ul>
 {% for talk in site.data.presentations %}
   <li>
@@ -84,10 +85,9 @@ permalink: /about/
 {% endfor %}
 </ul>
 
-
+---
 
 ##  💻  Skills
-
 <p>
 I use programming languages such as <strong>Mathematica</strong>, <strong>Python</strong>, and <strong>C++</strong>.
 I also have experience with <strong>MATLAB</strong> and <strong>MAPLE</strong>.
@@ -95,6 +95,6 @@ I also have experience with <strong>MATLAB</strong> and <strong>MAPLE</strong>.
 
 <p><a href="/">← Back to Home</a></p>
 
----
+
 
 
