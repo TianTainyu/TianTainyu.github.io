@@ -71,7 +71,7 @@ permalink: /about/
     </div>
   </div>
 {% endfor %}
-</div>
+
 
 
 ## 🎤 Presentations
