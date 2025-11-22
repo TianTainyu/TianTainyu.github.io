@@ -103,7 +103,7 @@ permalink: /about/
 ## 🎤 Presentations
 
 <ul>
-{% for talk in site.data.presentation %}
+{% for talk in site.data.presentations %}
   <li>
     <strong>{{ talk.type }}</strong>, {{ talk.event }}, {{ talk.location }} — {{ talk.date }}
   </li>
